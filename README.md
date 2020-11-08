@@ -14,7 +14,7 @@ The installation is very simple because it's portable, so you just need to downl
 2. Right click to *Cmder.exe* -> Send to -> Desktop (create shortcut)
 3. Right click to cmder shortcut created -> Properties -> shortcut key : Ctrl + Alt+ T
 
-![properties cmder](.\img\Properties_cmder.jpg)
+![properties cmder](img/Properties_cmder.jpg)
 
 ## Shortcut to open Cmder in a chosen folder
 
@@ -28,7 +28,7 @@ In a file explorer window right click in or on a directory to see "Cmder Here" i
 
 ### Theme
 
-![dracula theme cmder](.\img\cmder.png)
+![dracula theme cmder](img/cmder.png)
 
 I use [Dracula theme](https://draculatheme.com/cmder). To install:
 
@@ -51,7 +51,7 @@ I use [Dracula theme](https://draculatheme.com/cmder). To install:
 
 5. Select the directory you want the console to start up in by default
 
-   ![cmder_startup](.\img\cmder_startup.jpg)
+   ![cmder_startup](img/cmder_startup.jpg)
 
 ### Change symbol  lambda "λ"
 
@@ -64,7 +64,7 @@ I use [Dracula theme](https://draculatheme.com/cmder). To install:
 
 1. Add a new environment variable into your Windows via the Control Panel.
 
-   ![](.\img\cmder_add_path.jpg)
+   ![](img/cmder_add_path.jpg)
 
 2.  Update your terminal setting inside PhpStorm. Change the shell path from cmd.exe as follows:
 
