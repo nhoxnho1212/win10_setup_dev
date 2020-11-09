@@ -20,7 +20,7 @@ The installation is very simple because it's portable, so you just need to downl
 
 1. Open a terminal as an Administrator
 2. Navigate to the directory you have Administrator
-3. Execute ```.\cmder.exe \REGISTER ALL```. *if you get message "**Access Denied**" ensure you are executing the command in an **Administrator** prompt* 
+3. Execute ```.\cmder.exe /REGISTER ALL```. *if you get message "**Access Denied**" ensure you are executing the command in an **Administrator** prompt* 
 
 In a file explorer window right click in or on a directory to see "Cmder Here" in the context menu.
 
